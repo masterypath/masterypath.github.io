@@ -3,11 +3,13 @@
 ---
 
 // Colors
-$primary: #E5261F;
+$primary: #1469d9;
+$danger: #E5261F;
 $secondary: #f88379;
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
+$grey: rgb(77,77,77);
 $steel: #5C5A5A;
 
 // Links
@@ -55,6 +57,7 @@ $sub-footer-text-color: $white;
 @import 'components/strip';
 @import 'components/feature';
 @import 'components/social';
+@import 'components/textstyles';
 
 // Pages
 @import 'pages/home';

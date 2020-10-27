@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: MasteryPath - Sell your knowledge via courses, books and blogs
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Learning a subject with an intention to teach is the path to mastery.
+intro_image: "images/illustrations/home-intro.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Distinguish yourself by teaching via MasteryPath.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Show off your portfolio of knowledge and sell online courses, books, or blogs to profit from your education.

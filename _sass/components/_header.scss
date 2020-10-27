@@ -1,6 +1,6 @@
 .header {
   color: $primary;
-  background-color: #ffffff;
+  background-color: #000000;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -24,4 +24,52 @@
       position: static;
     }
   }
+}
+
+.the-problem-header {
+  height: 164px;
+  width: 100%;
+  background-image: url(/images/illustrations/the-problem-header.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blue-header {
+  height: 139px;
+  width: 100%;
+  background-image: url(/images/illustrations/blue-header.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blue-divider {
+  height: 184px;
+  width: 100%;
+  background-image: url(/images/illustrations/blue-divider.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.orange-divider {
+  height: 145px;
+  width: 100%;
+  background-image: url(/images/illustrations/orange-divider.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.black-divider {
+  height: 145px;
+  width: 100%;
+  background-image: url(/images/illustrations/black-divider.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.the-problem-footer {
+  height: 111px;
+  width: 100%;
+  background-image: url(/images/illustrations/divider-bottom-half-round.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
